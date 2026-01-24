@@ -68,8 +68,8 @@ export const Navigation = () => {
         { name: 'Nutrition Counseling', href: '/services#nutrition', icon: Apple },
       ]
     },
-    { name: 'About Dr. Mostafa', href: '/about' },
-    // { name: 'Gallery', href: '/gallery' },
+    { name: 'About Dr. Ezzat', href: '/about' },
+    { name: 'Gallery', href: '/gallery' },
     { name: 'Contact', href: '/contact' },
   ]
 
@@ -88,8 +88,8 @@ export const Navigation = () => {
       <nav 
         className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
           isScrolled 
-            ? 'bg-slate-950/95 backdrop-blur-lg shadow-lg shadow-accent/10 border-b border-accent/20' 
-            : 'bg-transparent'
+            ? 'bg-slate-950/98 backdrop-blur-lg shadow-lg shadow-accent/10 border-b border-accent/20' 
+            : 'bg-slate-950/80 backdrop-blur-md border-b border-accent/10'
         }`}
       >
         <div className="max-w-7xl mx-auto px-6">
@@ -215,13 +215,17 @@ export const Navigation = () => {
 
         {/* Mobile Menu */}
         <div
-          className={`lg:hidden fixed inset-0 top-20 bg-slate-950/98 backdrop-blur-lg transition-all duration-300 ${
+          className={`lg:hidden fixed left-0 right-0 bg-slate-950/98 backdrop-blur-lg transition-all duration-300 overflow-hidden ${
             isMobileMenuOpen
-              ? 'opacity-100 visible'
-              : 'opacity-0 invisible pointer-events-none'
+              ? 'opacity-100 visible max-h-[calc(100vh-80px)] top-20'
+              : 'opacity-0 invisible max-h-0 top-20'
           }`}
+          style={{
+            bottom: 0,
+            height: isMobileMenuOpen ? 'calc(100vh - 80px)' : '0'
+          }}
         >
-          <div className="h-full overflow-y-auto px-6 py-8">
+          <div className="h-full overflow-y-auto px-6 py-8 overscroll-contain">
             {/* Mobile Nav Links */}
             <div className="space-y-2 mb-8">
               {navLinks.map((link) => (

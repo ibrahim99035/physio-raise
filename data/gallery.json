@@ -1,40 +1,52 @@
 {
   "galleryItems": [
     {
-      "title": "Clinical Treatment",
-      "description": "Advanced therapy techniques",
-      "span": "col-span-1 row-span-2",
-      "image": "/gallery/clinical-treatment.jpg"
+      "title": "Doctor's Office",
+      "description": "Professional consultation space",
+      "span": "md:col-span-2 md:row-span-2",
+      "image": "/ClincDocOffice.jpeg",
+      "category": "Facilities"
     },
     {
-      "title": "Equipment",
-      "description": "Modern rehabilitation tools",
-      "span": "col-span-2",
-      "image": "/gallery/equipment.jpg"
+      "title": "Reception Area",
+      "description": "Welcoming patient entrance",
+      "span": "md:col-span-1 md:row-span-1",
+      "image": "/Clinc-Reception.jpeg",
+      "category": "Facilities"
     },
     {
-      "title": "Patient Recovery",
-      "description": "Success stories in motion",
-      "span": "col-span-1",
-      "image": "/gallery/patient-recovery.jpg"
+      "title": "Clinic Interior",
+      "description": "Modern treatment environment",
+      "span": "md:col-span-1 md:row-span-1",
+      "image": "/ClinicInterior.jpeg",
+      "category": "Facilities"
     },
     {
-      "title": "Sports Rehabilitation",
-      "description": "Athletic performance recovery",
-      "span": "col-span-1",
-      "image": "/gallery/sports-rehab.jpg"
+      "title": "Therapy Session",
+      "description": "Expert hands-on treatment",
+      "span": "md:col-span-1 md:row-span-1",
+      "image": "/therapy.webp",
+      "category": "Treatment"
     },
     {
-      "title": "Therapeutic Sessions",
-      "description": "Expert physical therapy",
-      "span": "col-span-2 row-span-1",
-      "image": "/gallery/therapy-sessions.jpg"
+      "title": "Spinal Treatment",
+      "description": "Advanced spine therapy techniques",
+      "span": "md:col-span-1 md:row-span-1",
+      "image": "/spine-1-.webp",
+      "category": "Treatment"
     },
     {
-      "title": "Clinic Facility",
-      "description": "State-of-the-art environment",
-      "span": "col-span-1",
-      "image": "/gallery/clinic-facility.jpg"
+      "title": "Recovery Session",
+      "description": "Comprehensive rehabilitation care",
+      "span": "md:col-span-1 md:row-span-1",
+      "image": "/spine-2-.webp",
+      "category": "Treatment"
     }
+  ],
+  "categories": [
+    "All",
+    "Facilities",
+    "Treatment",
+    "Equipment"
   ]
 }
