@@ -1,0 +1,28 @@
+{
+  "testimonials": [
+    {
+      "text": "I fully regained my mobility after surgery thanks to the specialized therapeutic programs. Dr. Mostafa is truly exceptional.",
+      "author": "Ahmed Mohamed",
+      "role": "Post-Surgery Patient",
+      "rating": 5
+    },
+    {
+      "text": "I was suffering from chronic back pain and now I can return to my daily activities without any discomfort.",
+      "author": "Fatima Ali",
+      "role": "Office Employee",
+      "rating": 4
+    },
+    {
+      "text": "The cupping therapy combined with physical therapy gave me excellent results. A highly professional and friendly team.",
+      "author": "Mahmoud Hassan",
+      "role": "Athlete",
+      "rating": 5
+    },
+    {
+      "text": "Professional service from start to finish. Dr. Mostafa explains everything clearly and pays close attention to treatment details.",
+      "author": "Noureddine",
+      "role": "Rehabilitation Patient",
+      "rating": 4
+    }
+  ]
+}

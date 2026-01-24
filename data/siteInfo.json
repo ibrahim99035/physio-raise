@@ -1,0 +1,55 @@
+{
+  "contact": {
+    "phone": "+201013161377",
+    "email": "mostafaezzat0011@gmail.com",
+    "whatsapp": "201013161377"
+  },
+  "location": {
+    "address": "123 Medical Plaza, Health District",
+    "city": "Cairo, Egypt"
+  },
+  "hours": {
+    "weekdays": {
+      "days": "Monday - Friday",
+      "time": "8:00 AM - 8:00 PM"
+    },
+    "saturday": {
+      "days": "Saturday",
+      "time": "9:00 AM - 6:00 PM"
+    },
+    "sunday": {
+      "days": "Sunday",
+      "time": "Closed"
+    }
+  },
+  "doctor": {
+    "name": "Dr. Mostafa Ezzat",
+    "title": "Licensed Physical Therapist",
+    "image": "/doctor-portrait.jpg",
+    "bio": "Dr. Mostafa Ezzat specializes in restoring functional movement, alleviating pain, and enabling patients to achieve optimal physical performance through evidence-based rehabilitation protocols. Combining expertise in modern therapeutic techniques with a patient-centered methodology, Dr. Ezzat has successfully guided hundreds of patients toward comprehensive recovery.",
+    "expertise": "With specialized training in sports injury rehabilitation, post-surgical recovery, chronic pain management, and occupational rehabilitation, Dr. Ezzat integrates traditional therapeutic wisdom with cutting-edge clinical innovations to deliver measurable therapeutic outcomes.",
+    "credentials": [
+      {
+        "icon": "Stethoscope",
+        "title": "Licensed Physical Therapist",
+        "description": "Certified in advanced rehabilitation"
+      },
+      {
+        "icon": "Activity",
+        "title": "Sports Medicine Specialist",
+        "description": "Expert in athletic injury recovery"
+      },
+      {
+        "icon": "Heart",
+        "title": "Patient-Centered Care",
+        "description": "Dedicated to your recovery journey"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Physio-Raise",
+    "subtitle": "Advanced Physical Therapy & Rehabilitation",
+    "tagline": "Personalized care. Precise recovery. Real results.",
+    "backgroundImage": "/hero-background.jpg"
+  }
+}

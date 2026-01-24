@@ -1,0 +1,34 @@
+{
+  "conditions": [
+    {
+      "title": "Herniated Disc",
+      "icon": "Sparkles",
+      "description": "Specialized treatment for spinal disc herniation using modern and safe techniques"
+    },
+    {
+      "title": "Lower Back Pain",
+      "icon": "Heart",
+      "description": "Custom programs to alleviate pain and restore strength and flexibility"
+    },
+    {
+      "title": "Sports Injuries",
+      "icon": "Dumbbell",
+      "description": "Advanced rehabilitation for optimal athletic performance and recovery"
+    },
+    {
+      "title": "Knee & Joint Problems",
+      "icon": "TrendingUp",
+      "description": "Effective treatment for all joint and cartilage related issues"
+    },
+    {
+      "title": "Post-Surgical Recovery",
+      "icon": "Stethoscope",
+      "description": "Comprehensive rehabilitation programs following surgical procedures"
+    },
+    {
+      "title": "Neck Stiffness & Pain",
+      "icon": "Activity",
+      "description": "Specialized treatment for neck stiffness and shoulder pain relief"
+    }
+  ]
+}

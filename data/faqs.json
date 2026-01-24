@@ -1,0 +1,28 @@
+{
+  "faqs": [
+    {
+      "question": "How long does a typical physical therapy session last?",
+      "answer": "Each session typically lasts 45-60 minutes, including assessment, treatment, and home exercise instructions. The duration may vary based on your specific condition and treatment plan."
+    },
+    {
+      "question": "Do I need a referral from a doctor to visit?",
+      "answer": "While a referral is not strictly required, we recommend consulting with your physician first. Many insurance plans require a referral for coverage. We can work with you either way."
+    },
+    {
+      "question": "How many sessions will I need?",
+      "answer": "The number of sessions depends on your condition, severity, and recovery goals. Most patients see significant improvement within 6-12 sessions, but we create personalized treatment plans for each patient."
+    },
+    {
+      "question": "What should I wear to my appointment?",
+      "answer": "Wear comfortable, loose-fitting clothing that allows easy movement. You may need to expose certain areas being treated, so wear clothes you can adjust easily."
+    },
+    {
+      "question": "Can I combine different therapies?",
+      "answer": "Absolutely! Many patients benefit from combining physical therapy with cupping therapy and nutrition counseling. We can create integrated treatment plans tailored to your needs."
+    },
+    {
+      "question": "Do you accept insurance?",
+      "answer": "We accept most major insurance plans. Please contact us with your insurance details, and we can verify coverage and discuss payment options."
+    }
+  ]
+}

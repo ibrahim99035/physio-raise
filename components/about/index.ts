@@ -1,0 +1,7 @@
+export { AboutHero } from './AboutHero'
+export { AboutDoctor } from './AboutDoctor'
+export { MissionVision } from './MissionVision'
+export { CoreValues } from './CoreValues'
+export { RecoveryProtocol } from './RecoveryProtocol'
+export { Achievements } from './Achievements'
+export { AboutCTA } from './AboutCTA'

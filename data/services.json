@@ -1,0 +1,34 @@
+{
+  "services": [
+    {
+      "icon": "Stethoscope",
+      "title": "Clinical Physical Therapy",
+      "description": "Evidence-based therapeutic exercises and manual therapy tailored to your condition"
+    },
+    {
+      "icon": "Dumbbell",
+      "title": "Sports Injury Rehabilitation",
+      "description": "Specialized recovery protocols for athletic injuries and performance restoration"
+    },
+    {
+      "icon": "TrendingUp",
+      "title": "Post-Surgical Recovery",
+      "description": "Comprehensive rehabilitation following orthopedic and general surgical procedures"
+    },
+    {
+      "icon": "Heart",
+      "title": "Cardiac & Respiratory Therapy",
+      "description": "Specialized programs for cardiovascular and pulmonary rehabilitation"
+    },
+    {
+      "icon": "Aperture",
+      "title": "Traditional Cupping Therapy",
+      "description": "Ancient therapeutic technique for muscle tension and pain relief"
+    },
+    {
+      "icon": "Apple",
+      "title": "Medical Nutrition Counseling",
+      "description": "Nutritional guidance supporting optimal recovery and overall wellness"
+    }
+  ]
+}

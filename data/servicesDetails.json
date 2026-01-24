@@ -1,0 +1,92 @@
+{
+  "hero": {
+    "title": "Our Services",
+    "description": "Comprehensive therapeutic solutions designed to address your specific rehabilitation needs and restore optimal physical function."
+  },
+  "services": [
+    {
+      "id": "physical-therapy",
+      "icon": "Stethoscope",
+      "title": "Clinical Physical Therapy",
+      "description": "Evidence-based therapeutic exercises and manual therapy tailored to your condition. Our expert therapists use proven techniques to restore mobility and reduce pain.",
+      "benefits": [
+        "Pain relief",
+        "Mobility restoration",
+        "Strength building",
+        "Functional recovery"
+      ],
+      "image": "/services/physical-therapy.jpg"
+    },
+    {
+      "id": "sports-rehab",
+      "icon": "Dumbbell",
+      "title": "Sports Injury Rehabilitation",
+      "description": "Specialized recovery protocols for athletic injuries and performance restoration. Get back to peak physical condition with sport-specific training.",
+      "benefits": [
+        "Injury recovery",
+        "Performance enhancement",
+        "Injury prevention",
+        "Athletic training"
+      ],
+      "image": "/services/sports-rehab.jpg"
+    },
+    {
+      "id": "post-surgery",
+      "icon": "TrendingUp",
+      "title": "Post-Surgical Recovery",
+      "description": "Comprehensive rehabilitation following orthopedic and general surgical procedures. Accelerate your healing with guided therapeutic protocols.",
+      "benefits": [
+        "Quick recovery",
+        "Scar tissue management",
+        "Range of motion",
+        "Strength restoration"
+      ],
+      "image": "/services/post-surgery.jpg"
+    },
+    {
+      "id": "cardiac-respiratory",
+      "icon": "Heart",
+      "title": "Cardiac & Respiratory Therapy",
+      "description": "Specialized programs for cardiovascular and pulmonary rehabilitation. Improve heart health and breathing capacity with supervised therapy.",
+      "benefits": [
+        "Cardiovascular health",
+        "Breathing improvement",
+        "Endurance building",
+        "Wellness support"
+      ],
+      "image": "/services/cardiac-therapy.jpg"
+    },
+    {
+      "id": "cupping",
+      "icon": "Aperture",
+      "title": "Traditional Cupping Therapy",
+      "description": "Ancient therapeutic technique for muscle tension and pain relief. Enhance circulation and promote natural healing.",
+      "benefits": [
+        "Muscle tension relief",
+        "Improved circulation",
+        "Toxin removal",
+        "Relaxation"
+      ],
+      "image": "/services/cupping.jpg"
+    },
+    {
+      "id": "nutrition",
+      "icon": "Apple",
+      "title": "Medical Nutrition Counseling",
+      "description": "Nutritional guidance supporting optimal recovery and overall wellness. Personalized diet plans to complement your therapy.",
+      "benefits": [
+        "Nutrition planning",
+        "Recovery support",
+        "Health optimization",
+        "Wellness coaching"
+      ],
+      "image": "/services/nutrition.jpg"
+    }
+  ],
+  "cta": {
+    "title": "Ready to Start Your Recovery?",
+    "titleAccent": "Recovery?",
+    "buttonText": "Schedule Your Free Consultation",
+    "buttonLink": "/contact"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "hero": {
+    "title": "Get In Touch",
+    "description": "Have questions? Contact us today and let's discuss your rehabilitation journey"
+  },
+  "contactInfo": {
+    "title": "Contact Information",
+    "subtitle": "Reach out to us through any of these channels"
+  },
+  "form": {
+    "title": "Send us a Message",
+    "subtitle": "Fill out the form below and we'll get back to you as soon as possible",
+    "fields": {
+      "name": {
+        "label": "Full Name",
+        "placeholder": "Enter your full name",
+        "required": true
+      },
+      "email": {
+        "label": "Email Address",
+        "placeholder": "your.email@example.com",
+        "required": true
+      },
+      "phone": {
+        "label": "Phone Number",
+        "placeholder": "+20 XXX XXX XXXX",
+        "required": false
+      },
+      "subject": {
+        "label": "Subject",
+        "placeholder": "What is this regarding?",
+        "required": true
+      },
+      "message": {
+        "label": "Message",
+        "placeholder": "Tell us about your needs, concerns, or questions...",
+        "required": true,
+        "rows": 6
+      }
+    },
+    "submitButton": "Send Message",
+    "successMessage": "Thank you for contacting us! We'll get back to you soon.",
+    "errorMessage": "Something went wrong. Please try again or contact us directly."
+  },
+  "mapEmbed": {
+    "enabled": true,
+    "title": "Visit Our Clinic",
+    "description": "Find us at our convenient location in Cairo"
+  }
+}

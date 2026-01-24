@@ -1,0 +1,80 @@
+{
+  "hero": {
+    "title": "About Physio-Raise",
+    "description": "Excellence in physical therapy and rehabilitation care, led by Dr. Mostafa Ezzat"
+  },
+  "mission": {
+    "title": "Our Mission",
+    "description": "To empower individuals to achieve optimal physical health through personalized, evidence-based rehabilitation that addresses not just symptoms, but the root causes of physical dysfunction. We are committed to delivering compassionate care that transforms lives and restores hope."
+  },
+  "vision": {
+    "title": "Our Vision",
+    "description": "To be the leading physical therapy center in Egypt, recognized for clinical excellence, innovative treatment approaches, and exceptional patient outcomes that set new standards in rehabilitation care."
+  },
+  "values": [
+    {
+      "icon": "Heart",
+      "title": "Patient-Centered Care",
+      "description": "Every treatment plan is personalized to your unique condition and recovery goals"
+    },
+    {
+      "icon": "Award",
+      "title": "Clinical Excellence",
+      "description": "Evidence-based therapeutic protocols combined with years of professional expertise"
+    },
+    {
+      "icon": "TrendingUp",
+      "title": "Measurable Results",
+      "description": "We track progress and adjust treatment to ensure continuous improvement"
+    },
+    {
+      "icon": "Users",
+      "title": "Comprehensive Support",
+      "description": "Our team collaborates to provide holistic care for your complete recovery"
+    }
+  ],
+  "recoverySteps": [
+    {
+      "number": "01",
+      "title": "Initial Assessment",
+      "description": "Comprehensive evaluation of your condition, medical history, and recovery goals"
+    },
+    {
+      "number": "02",
+      "title": "Diagnosis & Planning",
+      "description": "Expert analysis and creation of a personalized treatment roadmap"
+    },
+    {
+      "number": "03",
+      "title": "Therapy Sessions",
+      "description": "Evidence-based therapeutic interventions with progress monitoring"
+    },
+    {
+      "number": "04",
+      "title": "Recovery & Follow-up",
+      "description": "Long-term support to ensure sustained improvement and prevent relapse"
+    }
+  ],
+  "achievements": [
+    {
+      "number": "500+",
+      "title": "Patients Treated",
+      "description": "Successfully helped over 500 patients recover"
+    },
+    {
+      "number": "10+",
+      "title": "Years Experience",
+      "description": "Over a decade of clinical expertise"
+    },
+    {
+      "number": "95%",
+      "title": "Success Rate",
+      "description": "Exceptional patient satisfaction and outcomes"
+    },
+    {
+      "number": "15+",
+      "title": "Specializations",
+      "description": "Wide range of therapeutic services"
+    }
+  ]
+}

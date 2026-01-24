@@ -1,0 +1,40 @@
+{
+  "galleryItems": [
+    {
+      "title": "Clinical Treatment",
+      "description": "Advanced therapy techniques",
+      "span": "col-span-1 row-span-2",
+      "image": "/gallery/clinical-treatment.jpg"
+    },
+    {
+      "title": "Equipment",
+      "description": "Modern rehabilitation tools",
+      "span": "col-span-2",
+      "image": "/gallery/equipment.jpg"
+    },
+    {
+      "title": "Patient Recovery",
+      "description": "Success stories in motion",
+      "span": "col-span-1",
+      "image": "/gallery/patient-recovery.jpg"
+    },
+    {
+      "title": "Sports Rehabilitation",
+      "description": "Athletic performance recovery",
+      "span": "col-span-1",
+      "image": "/gallery/sports-rehab.jpg"
+    },
+    {
+      "title": "Therapeutic Sessions",
+      "description": "Expert physical therapy",
+      "span": "col-span-2 row-span-1",
+      "image": "/gallery/therapy-sessions.jpg"
+    },
+    {
+      "title": "Clinic Facility",
+      "description": "State-of-the-art environment",
+      "span": "col-span-1",
+      "image": "/gallery/clinic-facility.jpg"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "offers": [
+    {
+      "title": "Physical Therapy Session",
+      "price": "250 EGP",
+      "originalPrice": "500 EGP",
+      "description": "Expert clinical physical therapy treatment"
+    },
+    {
+      "title": "6-Session Package",
+      "price": "1,300 EGP",
+      "originalPrice": "3,000 EGP",
+      "description": "Complete rehabilitation program"
+    },
+    {
+      "title": "12-Session Package",
+      "price": "2,500 EGP",
+      "originalPrice": "6,000 EGP",
+      "description": "Comprehensive recovery program"
+    },
+    {
+      "title": "24-Session Package",
+      "price": "4,800 EGP",
+      "originalPrice": "12,000 EGP",
+      "description": "Full course rehabilitation"
+    },
+    {
+      "title": "Cupping Therapy",
+      "price": "500 EGP",
+      "originalPrice": "1,000 EGP",
+      "description": "Traditional therapeutic treatment"
+    },
+    {
+      "title": "Recovery Session",
+      "price": "500 EGP",
+      "originalPrice": "1,200 EGP",
+      "description": "Accelerated recovery program"
+    },
+    {
+      "title": "Recovery + Cupping",
+      "price": "800 EGP",
+      "originalPrice": "2,200 EGP",
+      "description": "Combined therapeutic package"
+    },
+    {
+      "title": "Nutrition Consultation",
+      "price": "300 EGP",
+      "originalPrice": null,
+      "description": "Medical nutrition guidance"
+    }
+  ]
+}
