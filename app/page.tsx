@@ -15,6 +15,7 @@ import {
   TestimonialSection,
   ConditionsSection,
   CTASection,
+  TeamSection,
 } from '@/components/home'
 
 export default function Home() {
@@ -27,6 +28,7 @@ export default function Home() {
       <OffersSection />
       <PhilosophySection />
       <DoctorSection />
+      <TeamSection />
       <LocationSection />
       <GallerySection />
       <FAQSection />

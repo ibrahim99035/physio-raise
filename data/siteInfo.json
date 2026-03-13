@@ -1,4 +1,5 @@
 {
+  "url": "https://physio-raise.vercel.app",
   "contact": {
     "phone": "+201013161377",
     "email": "mostafaezzat0011@gmail.com",
@@ -6,7 +7,9 @@
   },
   "location": {
     "address": "Alsheikh Zayed- district 7 - CMC zayed -second floor- clinic n.12",
-    "city": "Cairo, Egypt"
+    "city": "Cairo, Egypt",
+    "lat": 30.025468,
+    "lng": 30.979026
   },
   "socials":{
     "facebook":"https://www.facebook.com/share/1AaHuZfAkt/?mibextid=wwXIfr",
@@ -57,5 +60,6 @@
     "subtitle": "Advanced Physical Therapy & Rehabilitation",
     "tagline": "Personalized care. Precise recovery. Real results.",
     "backgroundImage": "/hero-background.jpg"
-  }
+  },
+  "mapUrl":"https://maps.app.goo.gl/GwTBdLsQziWBb5DB6"
 }
