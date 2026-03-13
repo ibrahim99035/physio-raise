@@ -6,7 +6,7 @@
       "featuredLabel": "Lead Physician",
       "name": "Dr. Ahmed Ezzat",
       "title": "Physical Therapy Specialist",
-      "image": "/phsyo-logo.jpeg",
+      "image": "/team/mostafa.jpg",
       "initials": "AE",
       "bio": "Expert in sports rehabilitation and post-surgical recovery with over 12 years of clinical excellence at Physio-Raise.",
       "expertise": "Sports Rehab · Post-Surgery · Manual Therapy",
@@ -19,12 +19,12 @@
       }
     },
     {
-      "id": "sara-mohamed",
+      "id": "ganna",
       "featured": false,
-      "name": "Sara Mohamed",
-      "title": "Sports Rehabilitation",
-      "image": "",
-      "initials": "SM",
+      "name": "Dr. Ganna",
+      "title": "Physical Therapy Specialist",
+      "image": "/team/ganna.jpeg",
+      "initials": "G",
       "bio": "Specializes in athletic injury recovery and performance enhancement programs for professional athletes.",
       "expertise": "Athletic Recovery · Performance",
       "social": {
@@ -34,33 +34,18 @@
       }
     },
     {
-      "id": "karim-ashraf",
+      "id": "omar",
       "featured": false,
-      "name": "Karim Ashraf",
-      "title": "Nutrition Counselor",
-      "image": "",
-      "initials": "KA",
+      "name": "Dr. Omar",
+      "title": "Physical Therapy Specialist",
+      "image": "/team/omar.jpeg",
+      "initials": "O",
       "bio": "Certified nutritionist focused on recovery-optimized meal planning and body composition coaching.",
       "expertise": "Clinical Nutrition · Recovery Diet",
       "social": {
         "linkedin": "https://linkedin.com/in/karim-ashraf",
         "facebook": "https://facebook.com/karim.ashraf",
         "instagram": "https://instagram.com/karim.nutrition"
-      }
-    },
-    {
-      "id": "nour-ramzy",
-      "featured": false,
-      "name": "Nour Ramzy",
-      "title": "Post-Surgical Recovery",
-      "image": "",
-      "initials": "NR",
-      "bio": "Expert in post-operative rehabilitation and tailored pain management protocols.",
-      "expertise": "Post-Op Rehab · Pain Management",
-      "social": {
-        "linkedin": "https://linkedin.com/in/nour-ramzy",
-        "instagram": "https://instagram.com/nour.physio",
-        "whatsapp": "+201000000002"
       }
     }
   ]
